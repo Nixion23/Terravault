@@ -1,0 +1,556 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1685244636662086, "dur":994, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244636663084, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1685244636663130, "dur":9, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1685244636663139, "dur":511, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1685244636663666, "dur":373, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244636664039, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637001900, "dur":412, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002312, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002340, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002343, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002351, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002352, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002363, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002364, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002380, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002382, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002386, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002387, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002391, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002392, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002396, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002397, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002402, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002403, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002407, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002408, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002412, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002413, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002417, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002418, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002422, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002423, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002427, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002428, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002432, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002433, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002436, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002438, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002441, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002443, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002447, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002448, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002452, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002454, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002457, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002458, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002461, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002463, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002466, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002467, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002471, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002473, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002475, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002477, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002481, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002500, "dur":9, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637002514, "dur":1280, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1685244636663577, "dur":466, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636664044, "dur":4019, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636668079, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1685244636668087, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636669808, "dur":450, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1685244636670262, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1685244636670353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636670663, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1685244636672016, "dur":14898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636686916, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636687097, "dur":1050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636688187, "dur":38474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636726664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636726668, "dur":2423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636729139, "dur":96585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636825727, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636825731, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636826725, "dur":97867, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636924610, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685244636924614, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685244636925501, "dur":76416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636663598, "dur":453, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636664051, "dur":4050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636668102, "dur":3025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1685244636671129, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636671132, "dur":1610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1685244636672779, "dur":33402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636706183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636706188, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636707116, "dur":13500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636720619, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636720622, "dur":936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636721608, "dur":40342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636761952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636761956, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636763002, "dur":17307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1685244636780311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636780332, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1685244636781377, "dur":122205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636903585, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685244636903591, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1685244636904826, "dur":97093, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685244636663592, "dur":454, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685244636664046, "dur":4023, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685244636668071, "dur":631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1685244636668704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685244636674864, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1685244636677225, "dur":15296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1685244636692523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685244636692528, "dur":1553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1685244636694120, "dur":161753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1685244636855876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685244636855880, "dur":1210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1685244636857129, "dur":144768, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636663619, "dur":434, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636664053, "dur":4012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636668071, "dur":564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1685244636668638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636674748, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1685244636676663, "dur":32382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636709048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636709052, "dur":1272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636710373, "dur":26236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636736638, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636736643, "dur":1054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636737741, "dur":66030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636803773, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636803778, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636804714, "dur":141427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636946143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685244636946146, "dur":1636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1685244636947815, "dur":54114, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636663638, "dur":418, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636664056, "dur":4016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636668081, "dur":674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1685244636668757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636680689, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1685244636682021, "dur":13193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636695216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636695220, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636696259, "dur":41295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636737557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636737561, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636738933, "dur":17752, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636756688, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636756691, "dur":1466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636758198, "dur":68334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1685244636826534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636826538, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1685244636827583, "dur":172342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244636999927, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685244636999931, "dur":1893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1685244637001859, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":5, "ts":1685244637001861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636663932, "dur":173, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636664105, "dur":3991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636668098, "dur":51487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685244636719587, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636719590, "dur":18829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685244636738467, "dur":18656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685244636757126, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636757130, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685244636758495, "dur":7807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1685244636766304, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636766307, "dur":1762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1685244636768109, "dur":95364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685244636863494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685244636863498, "dur":1220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685244636864749, "dur":137159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636663667, "dur":395, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636664062, "dur":4002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636668071, "dur":25947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1685244636694021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636694652, "dur":1109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1685244636695851, "dur":41438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636737291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636737295, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636738628, "dur":19846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636758476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636758479, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636760169, "dur":54795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636814968, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636814974, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636816042, "dur":126347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636942392, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685244636942398, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685244636944128, "dur":57793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636663964, "dur":146, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636664110, "dur":3971, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636668082, "dur":8075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1685244636676160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636676164, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1685244636678648, "dur":14136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636692787, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636692791, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636694620, "dur":13918, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636708540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636708544, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636709798, "dur":29592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636739392, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636739397, "dur":945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636740383, "dur":84301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636824687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636824691, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636827410, "dur":39949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636867361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685244636867365, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1685244636868301, "dur":133626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636663703, "dur":362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636664065, "dur":4011, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636668077, "dur":679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1685244636668758, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636679999, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1685244636681568, "dur":71547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1685244636753117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636753121, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1685244636754204, "dur":30384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1685244636784591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636784594, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1685244636785565, "dur":69696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1685244636855264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685244636855267, "dur":1118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1685244636856425, "dur":145488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636663728, "dur":340, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636664068, "dur":4020, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636668089, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1685244636668825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636684979, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1685244636686983, "dur":30411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1685244636717397, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636717400, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1685244636718270, "dur":48803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1685244636767075, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636767079, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1685244636768283, "dur":181004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1685244636949289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685244636949293, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1685244636951108, "dur":50820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636663744, "dur":327, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636664071, "dur":4012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636668087, "dur":7865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1685244636675954, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636675959, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1685244636678401, "dur":101907, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1685244636780311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636780706, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1685244636781722, "dur":71238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1685244636852963, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636852966, "dur":1457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1685244636854466, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1685244636854508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636854511, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1685244636855543, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1685244636855590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685244636855593, "dur":1100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1685244636856733, "dur":145165, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636663762, "dur":312, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636664074, "dur":3996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636668070, "dur":7460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1685244636675533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636675547, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1685244636677848, "dur":35130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636712981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636712985, "dur":1022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636714049, "dur":35888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636749940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636749944, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636750983, "dur":34223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636785209, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636785213, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636786755, "dur":28861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636815619, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636815623, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636816944, "dur":98991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636915938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685244636915942, "dur":1198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1685244636917173, "dur":84749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636663775, "dur":302, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636664077, "dur":3994, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636668072, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1685244636668314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636670273, "dur":1585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1685244636671928, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1685244636672080, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636672392, "dur":4527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1685244636676990, "dur":33011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636710003, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636710007, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636711046, "dur":15758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636726807, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636726810, "dur":2631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636729487, "dur":28825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636758315, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636758319, "dur":1313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636759673, "dur":101519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636861197, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685244636861203, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1685244636862487, "dur":139415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636663827, "dur":258, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636664085, "dur":3982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636668079, "dur":8029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1685244636676111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636676115, "dur":2275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1685244636678461, "dur":16333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636694797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636694801, "dur":1163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636696011, "dur":13430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636709443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636709447, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636710690, "dur":12406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636723099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636723103, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636724238, "dur":17145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636741386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636741390, "dur":1339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636742770, "dur":13377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636756150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636756159, "dur":1123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636757322, "dur":6703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1685244636764044, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636764048, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1685244636765079, "dur":5630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1685244636770712, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636770716, "dur":1210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1685244636771967, "dur":56010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636827979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636827983, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636828932, "dur":165516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636994451, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685244636994457, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1685244636995476, "dur":6425, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636663801, "dur":279, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636664080, "dur":4005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636668086, "dur":699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1685244636668787, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636684120, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1685244636685560, "dur":64182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685244636749744, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636749748, "dur":980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685244636750769, "dur":13479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685244636764251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636764255, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685244636765176, "dur":177395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685244636942573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685244636942577, "dur":1270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685244636943890, "dur":58030, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636663812, "dur":270, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636664083, "dur":4004, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636668089, "dur":732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1685244636668823, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636684589, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1685244636686117, "dur":15744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636701864, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636701870, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636702967, "dur":19613, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636722583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636722587, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636723648, "dur":15136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636738786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636738790, "dur":876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636739707, "dur":12553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636752262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636752266, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636753241, "dur":125042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636878287, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685244636878294, "dur":1192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1685244636879540, "dur":122369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636663848, "dur":240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636664088, "dur":3989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636668091, "dur":7468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1685244636675561, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636675938, "dur":2622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1685244636678638, "dur":17402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636696061, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636696064, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636697093, "dur":29837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636726932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636726936, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636728456, "dur":27701, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636756471, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636756476, "dur":1954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636758476, "dur":81295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636839773, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636839777, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636840783, "dur":22546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636863331, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685244636863336, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1685244636864442, "dur":137465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636663862, "dur":229, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636664091, "dur":3983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636668075, "dur":8561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1685244636676639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636676644, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1685244636678768, "dur":14484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636693254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636693258, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636695296, "dur":36942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636732241, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636732245, "dur":1263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636733553, "dur":14914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636748470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636748474, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636749469, "dur":26773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636776245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636776249, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636777141, "dur":154089, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636931233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685244636931238, "dur":981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":18, "ts":1685244636932249, "dur":69667, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636663877, "dur":217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636664094, "dur":3986, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636668080, "dur":669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1685244636668752, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636675905, "dur":2350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1685244636678315, "dur":15938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1685244636694256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636694260, "dur":1279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1685244636695594, "dur":90028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1685244636785624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636785628, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1685244636787064, "dur":91233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":19, "ts":1685244636878300, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685244636878306, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":19, "ts":1685244636879631, "dur":122283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685244636663891, "dur":205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685244636664096, "dur":3996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685244636668092, "dur":19099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":20, "ts":1685244636687194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685244636687258, "dur":3749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":20, "ts":1685244636691052, "dur":131343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1685244636822398, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685244636822402, "dur":1346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1685244636823786, "dur":96337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1685244636920125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685244636920129, "dur":826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1685244636920986, "dur":80926, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636663904, "dur":195, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636664099, "dur":3990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636668091, "dur":2514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636670607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636670910, "dur":1602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636672578, "dur":17693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636690274, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636690350, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636691422, "dur":5028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":21, "ts":1685244636696453, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636696456, "dur":1060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":21, "ts":1685244636697560, "dur":24259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636721821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636721825, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636722905, "dur":30529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636753437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636753441, "dur":1794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636755277, "dur":19715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636774994, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636774999, "dur":903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636775950, "dur":87862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636863815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1685244636863820, "dur":1294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":21, "ts":1685244636865167, "dur":136738, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636663918, "dur":184, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636664102, "dur":3977, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636668079, "dur":673, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":22, "ts":1685244636668754, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636676151, "dur":2564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":22, "ts":1685244636678793, "dur":14301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636693096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636693100, "dur":1639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636694782, "dur":30147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636724932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636724936, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636726390, "dur":14505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636740897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636740902, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636741885, "dur":14530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636756464, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636756468, "dur":1151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636757666, "dur":41853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636799522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636799527, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636800456, "dur":140270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636940729, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1685244636940732, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":22, "ts":1685244636941770, "dur":60154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636663653, "dur":406, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636664059, "dur":4034, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636668095, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636669186, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636669235, "dur":2328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636671604, "dur":31526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault.exe" }}
+,{ "pid":12345, "tid":23, "ts":1685244636703132, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636703135, "dur":1117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault.exe" }}
+,{ "pid":12345, "tid":23, "ts":1685244636704298, "dur":15953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636720254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636720259, "dur":1108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636721413, "dur":12696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636734112, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636734118, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636735104, "dur":12830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636747937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636747941, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636748899, "dur":37852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636786753, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636786757, "dur":1663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636788461, "dur":26968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636815452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636815457, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636816744, "dur":35700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636852447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636852450, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":23, "ts":1685244636853373, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/level0.resS" }}
+,{ "pid":12345, "tid":23, "ts":1685244636853414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1685244636853417, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/level0.resS" }}
+,{ "pid":12345, "tid":23, "ts":1685244636856255, "dur":145645, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636663950, "dur":158, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636664108, "dur":3974, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636668085, "dur":467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":24, "ts":1685244636668557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636670400, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":24, "ts":1685244636671998, "dur":58803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636730804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636730808, "dur":1144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636732003, "dur":13219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636745224, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636745229, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636746169, "dur":17023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636763194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636763198, "dur":879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636764118, "dur":74287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636838408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636838412, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":24, "ts":1685244636839461, "dur":4245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":24, "ts":1685244636843709, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636843712, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":24, "ts":1685244636844733, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":24, "ts":1685244636844777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636844835, "dur":949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":24, "ts":1685244636845823, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":24, "ts":1685244636845866, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636845868, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":24, "ts":1685244636846851, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":24, "ts":1685244636846892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636846895, "dur":1062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":24, "ts":1685244636847997, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":24, "ts":1685244636848117, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636848119, "dur":857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":24, "ts":1685244636849019, "dur":4582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":24, "ts":1685244636853604, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636853607, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":24, "ts":1685244636854691, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":24, "ts":1685244636854734, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636854737, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":24, "ts":1685244636855834, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Terravault_Data/boot.config" }}
+,{ "pid":12345, "tid":24, "ts":1685244636855957, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1685244636855959, "dur":976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Terravault_Data/boot.config" }}
+,{ "pid":12345, "tid":24, "ts":1685244636856982, "dur":144922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685244637005229, "dur":1657, "ph":"X", "name": "ProfilerWriteOutput" }
+,
